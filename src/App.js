@@ -1,5 +1,7 @@
+import State from "./State";
+
 function App() {
-  return <div></div>;
+  return <State />;
 }
 
 export default App;
