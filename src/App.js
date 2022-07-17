@@ -1,7 +1,8 @@
+import Effect from "./Effect";
 import State from "./State";
 
 function App() {
-  return <State />;
+  return <Effect />;
 }
 
 export default App;

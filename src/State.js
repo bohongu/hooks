@@ -41,7 +41,7 @@ export default State;
 /* 
 컴포넌트의 상태를 간단하게 생성하고, 업데이트하는 훅 
 
-const[state, setState] = useState(초기값);
+const[state, npm  setState] = useState(초기값);
 
 state가 update될 때마다 렌더링
 
