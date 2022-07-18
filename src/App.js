@@ -4,9 +4,10 @@ import Ref from "./Ref";
 import Ref2 from "./Ref2";
 import Ref3 from "./Ref3";
 import Ref4 from "./Ref4";
+import Context from "./Context";
 
 function App() {
-  return <Ref4 />;
+  return <Context />;
 }
 
 export default App;
