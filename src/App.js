@@ -5,9 +5,10 @@ import Ref2 from "./Ref2";
 import Ref3 from "./Ref3";
 import Ref4 from "./Ref4";
 import Context from "./Context";
+import Memo from "./Memo";
 
 function App() {
-  return <Context />;
+  return <Memo />;
 }
 
 export default App;
