@@ -8,9 +8,10 @@ import Context from "./Context";
 import Memo from "./Memo";
 import Memo2 from "./Memo2";
 import Callback from "./Callback";
+import Callback2 from "./Callback2";
 
 function App() {
-  return <Callback />;
+  return <Callback2 />;
 }
 
 export default App;
