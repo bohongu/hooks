@@ -7,9 +7,10 @@ import Ref4 from "./Ref4";
 import Context from "./Context";
 import Memo from "./Memo";
 import Memo2 from "./Memo2";
+import Callback from "./Callback";
 
 function App() {
-  return <Memo2 />;
+  return <Callback />;
 }
 
 export default App;
