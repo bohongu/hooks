@@ -9,9 +9,10 @@ import Memo from "./Memo";
 import Memo2 from "./Memo2";
 import Callback from "./Callback";
 import Callback2 from "./Callback2";
+import Reducer from "./Reducer";
 
 function App() {
-  return <Callback2 />;
+  return <Reducer />;
 }
 
 export default App;
