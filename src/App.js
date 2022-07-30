@@ -10,9 +10,10 @@ import Memo2 from "./Memo2";
 import Callback from "./Callback";
 import Callback2 from "./Callback2";
 import Reducer from "./Reducer";
+import Reducer2 from "./Reducer2";
 
 function App() {
-  return <Reducer />;
+  return <Reducer2 />;
 }
 
 export default App;
